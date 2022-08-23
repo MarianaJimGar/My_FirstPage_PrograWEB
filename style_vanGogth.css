@@ -1,0 +1,80 @@
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
+#div_body{
+    margin-top: 10px;
+}
+
+#div_encabezado{
+    background-color: burlywood;
+    width: auto;
+    height: 130px;
+    text-align: center;
+}
+
+#comedores_patatas{
+    width: 500px;
+    height: 400px;
+}
+
+#terraza_cafe{
+    width: 300px;
+    height: 400px;
+}
+
+#dormitorio_arles{
+    width: 500px;
+    height: 400px;
+}
+
+#girasoles{
+    width: 300px;
+    height: 400px;
+}
+
+#noche_estrellada{
+    width: 500px;
+    height: 400px;
+}
+
+#ronda_presos{
+    width: 300px;
+    height: 400px;
+}
+
+
+#imagen2{
+    margin-left: 512px;
+    margin-top: -404px;
+
+}
+
+#imagen3{
+    margin-left: 832px;
+    margin-top: -404px;
+}
+
+#imagen4{
+    margin-left: 100px;
+}
+
+#imagen5{
+    margin-left: 422px;
+    margin-top: -404px;
+}
+
+#imagen6{
+    margin-left: 942px;
+    margin-top: -404px;
+}
+
+#link{
+    text-align: center;
+}
+
+a{
+    color:brown;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

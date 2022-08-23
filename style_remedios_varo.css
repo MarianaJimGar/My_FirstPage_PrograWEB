@@ -1,0 +1,83 @@
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
+#div_body{
+    margin-top: 10px;
+}
+
+#div_encabezado{
+    background-color: burlywood;
+    width: auto;
+    height: 130px;
+    text-align: center;
+}
+
+#hambre{
+    width: 500px;
+    height: 400px;
+}
+
+#llamada{
+    width: 280px;
+    height: 400px;
+}
+
+#papilla_estelar{
+    width: 280px;
+    height: 400px;
+}
+
+#manto_terrestre{
+    width: 490px;
+    height: 400px;
+}
+
+#creacion_aves{
+    width: 500px;
+    height: 400px;
+}
+
+#agent_double{
+    width: 300px;
+    height: 400px;
+}
+
+#imagen1{
+    margin-left: 90px;
+}
+
+#imagen2{
+    margin-left: 618px;
+    margin-top: -404px;
+
+}
+
+#imagen3{
+    margin-left: 942px;
+    margin-top: -404px;
+}
+
+#imagen4{
+    margin-left: 10px;
+}
+
+#imagen5{
+    margin-left: 510px;
+    margin-top: -404px;
+}
+
+#imagen6{
+    margin-left: 1022px;
+    margin-top: -404px;
+}
+
+#link{
+    text-align: center;
+}
+
+a{
+    color:brown;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
